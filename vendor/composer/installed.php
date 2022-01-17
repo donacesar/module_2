@@ -28,5 +28,14 @@
             'reference' => 'dd81b57aeb43628180a9c70a4df58d872024d7f2',
             'dev_requirement' => false,
         ),
+        'league/plates' => array(
+            'pretty_version' => 'v3.4.0',
+            'version' => '3.4.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../league/plates',
+            'aliases' => array(),
+            'reference' => '6d3ee31199b536a4e003b34a356ca20f6f75496a',
+            'dev_requirement' => false,
+        ),
     ),
 );
